@@ -14,24 +14,24 @@ This project analyzes the dataset to uncover insights about:
 • Product category–wise order distribution
 • Customer city analysis based on price and payment value
 
-##Two interactive dashboards were created:
-1. "Power BI Dashboard" – Multi-page analysis with KPIs, payment insights, review scores, and state/category analysis
-2. "Tableau Dashboard" – Clean view of KPIs, customer spend, review vs. delivery insights, and payment method usage.
+Two interactive dashboards were created:
+1. Power BI Dashboard – Multi-page analysis with KPIs, payment insights, review scores, and state/category analysis
+2. Tableau Dashboard – Clean view of KPIs, customer spend, review vs. delivery insights, and payment method usage.
    
 ## Tools & Technologies
-• "Excel" – Data preprocessing and cleaning
-• "Power BI" – Data modeling, DAX measures, KPI cards, slicers, and visual dashboards
-• "Tableau" – Visualization and storytelling dashboards
-• "Data Source" – E-commerce dataset (Kaggle / provided course dataset)
+• Excel – Data preprocessing and cleaning.
+• Power BI – Data modeling, DAX measures, KPI cards, slicers, and visual dashboards.
+• Tableau – Visualization and storytelling dashboards.
+• "Data Source – E-commerce dataset (Kaggle / provided course dataset).
 
 ## Power BI Dashboard
 ### Page 1
-• KPIs: "Total Unique Customers (30.56K), Total Sellers (1574), Total Sales (5M), Total Profit (975.35K)"
-• Weekday vs. Weekend Payment Stats (76.7% weekday, 23.3% weekend)
-• Orders with Review Score = 5 by Payment Type (Credit Card, Boleto, Voucher)
-• Average Shipping Days by Review Score (decreasing trend from \~18 to 11 days)
-• Average Price vs. Average Payment Value by City (São Paulo shown)
-• Quarterly Sales Trend (Q1: 0.5M → Q4: 2M)
+• KPIs: Total Unique Customers (30.56K), Total Sellers (1574), Total Sales (5M), Total Profit (975.35K).
+• Weekday vs. Weekend Payment Stats (76.7% weekday, 23.3% weekend).
+• Orders with Review Score = 5 by Payment Type (Credit Card, Boleto, Voucher).
+• Average Shipping Days by Review Score (decreasing trend from \~18 to 11 days).
+• Average Price vs. Average Payment Value by City (São Paulo shown).
+• Quarterly Sales Trend (Q1: 0.5M → Q4: 2M).
 
 ### Page 2
 • Top 5 Profitable States (SP: 448.09K highest, followed by MG, PR, SC, RJ)
